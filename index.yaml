@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  peregrine:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-08-19T09:39:07.650335-07:00"
+    description: Single instance of Peregrine CMS with stage and live web servers
+    digest: c3511d3e3e943354332d7efb33a0775ae7df69bab5fd2000943106799b4fb5d7
+    home: https://www.peregrine-cms.com/
+    icon: https://www.peregrine-cms.com/etc/felibs/admin/images/peregrine-logo.png
+    keywords:
+    - peregrine
+    - cms
+    name: peregrine
+    urls:
+    - peregrine-1.0.0.tgz
+    version: 1.0.0
+generated: "2019-08-19T09:39:07.648672-07:00"
